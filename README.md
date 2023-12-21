@@ -18,7 +18,7 @@
 The paper is still in publication will be added as soon as published
 
 ## Contributions and Acknowledgements
-Thanks to [Contributors' Names].
+Thanks to Vedansh and Devanshi.
 
 ## Dataset
 The `micro-dataset.zip` contains the original images of Paramecium and Hydra.
