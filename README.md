@@ -15,7 +15,7 @@
 - Apply one of the classification methods from the `Classification` folder on the augmented dataset.
 
 ## Research Paper
-The paper is still in publication will be added as soon as published
+The findings from this research are discussed in a detailed paper available at: [Springer Link](https://link.springer.com/article/10.1007/s43538-024-00247-4).
 
 ## Contributions and Acknowledgements
 Thanks to Vedansh and Devanshi.
